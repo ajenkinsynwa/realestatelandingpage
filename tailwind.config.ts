@@ -10,6 +10,10 @@ const config: Config = {
     extend: {
       fontFamily: {
         playfair: ['var(--font-playfair)'],
+        montserrat: ['var(--font-montserrat)'],
+      },
+      colors: {
+        navy: '#232b3d',
       },
     },
   },
