@@ -25,16 +25,16 @@ export default function PropertyCards() {
           <div className="w-80 flex-shrink-0 bg-white rounded-xl shadow-lg overflow-hidden">
             <div className="relative h-48">
               <Image
-                src="/house.jpg"
+                src="/house1.jpg"
                 alt="8527 Foxbridge Drive"
                 fill
                 className="object-cover"
               />
             </div>
             <div className="p-6">
-              <h3 className="text-xl font-bold text-blue-900 mb-2">8527 Foxbridge Drive</h3>
-              <p className="text-gray-600 mb-2">Matthews, NC • 4 Beds • 3 Baths</p>
-              <div className="text-blue-900 font-semibold text-xl">$849,900</div>
+              <h3 className="text-xl font-bold text-blue-900 mb-2">14724 Colonial Park Drive</h3>
+              <p className="text-gray-600 mb-2">Huntersville, NC • 5 Beds • 4 Baths</p>
+              <div className="text-blue-900 font-semibold text-xl">$570,000</div>
               <p className="text-sm text-gray-500 mt-2">1.17 acre wooded lot with pool</p>
             </div>
           </div>
