@@ -61,3 +61,21 @@ html {
 .scroll-container {
   padding: 0 3rem;
 }
+
+.cb-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #fff;
+  text-align: center;
+}
+
+.h1 {
+  font-size: 4rem;
+  line-height: 1.1;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
